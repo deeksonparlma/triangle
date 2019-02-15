@@ -3,6 +3,7 @@
   height: 280px;
   width: 320px;
   border-radius: 20px;
+  box-shadow: 2px 2px 6px;
 }
 #trackOutput {
   color: #000000;
