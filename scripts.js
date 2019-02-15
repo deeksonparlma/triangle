@@ -13,5 +13,6 @@ function  tracker(){
     document.getElementById("trackOutput").innerHTML=firstOutput;
   }
   else if(sides[0]===sides[1] && sides[1]===sides[2] && sides[2]===sides[0]){
+    var secondOutput=sides[0]+" "+sides[1]+" "+sides[2]+" "+"make an equilateral triangle";
   }
 }
