@@ -14,5 +14,6 @@ function  tracker(){
   }
   else if(sides[0]===sides[1] && sides[1]===sides[2] && sides[2]===sides[0]){
     var secondOutput=sides[0]+" "+sides[1]+" "+sides[2]+" "+"make an equilateral triangle";
+    document.getElementById("trackOutput").innerHTML=secondOutput;
   }
 }
