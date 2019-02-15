@@ -10,6 +10,6 @@ function  tracker(){
 
   if(sides[0]===0 || sides[1]===0 || sides[2]===0){
     var firstOutput=sides[0]+" "+sides[1]+" "+sides[2]+" "+"can't make a triangle";
+    document.getElementById("trackOutput").innerHTML=firstOutput;
   }
-
 }
