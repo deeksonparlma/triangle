@@ -18,6 +18,7 @@ function  tracker(){
   }
   else if(sides[0]===sides[1] || sides[0]===sides[2] || sides[1]===sides[2]){
     var thirdOutput=sides[0]+" "+sides[1]+" "+sides[2]+" "+"make an an isosceles triangle";
+    document.getElementById("trackOutput").innerHTML=thirdOutput;
   }
   else if(sides[0]!=sides[1] && sides[0]!=sides[2] && sides[2]!=sides[1]){
   }
