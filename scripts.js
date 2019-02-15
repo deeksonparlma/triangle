@@ -21,6 +21,7 @@ function  tracker(){
     document.getElementById("trackOutput").innerHTML=thirdOutput;
   }
   else if(sides[0]!=sides[1] && sides[0]!=sides[2] && sides[2]!=sides[1]){
-    var thirdOutput=sides[0]+" "+sides[1]+" "+sides[2]+" "+"make a scalene triangle";
+    var fourthOutput=sides[0]+" "+sides[1]+" "+sides[2]+" "+"make a scalene triangle";
+    document.getElementById("trackOutput").innerHTML=fourthOutput;
   }
 }
