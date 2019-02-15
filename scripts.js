@@ -12,4 +12,6 @@ function  tracker(){
     var firstOutput=sides[0]+" "+sides[1]+" "+sides[2]+" "+"can't make a triangle";
     document.getElementById("trackOutput").innerHTML=firstOutput;
   }
+  else if(sides[0]===sides[1] && sides[1]===sides[2] && sides[2]===sides[0]){
+  }
 }
