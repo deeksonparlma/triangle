@@ -1,0 +1,24 @@
+#user_data {
+  background-color: #D0E9FB;
+  height: 280px;
+  width: 320px;
+  border-radius: 20px;
+}
+#trackOutput {
+  color: #000000;
+  font-size: 20px;
+}
+.send {
+  background-color: #A2F875;
+  height: 30px;
+  border-radius: 10px;
+}
+.change {
+  background-color: #FC766B;
+  height: 30px;
+  border-radius: 10px;
+}
+input {
+  height: 25px;
+  border-radius: 10px;
+}
