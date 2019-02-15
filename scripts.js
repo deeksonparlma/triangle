@@ -20,7 +20,7 @@ function  tracker(){
     var thirdOutput=sides[0]+" "+sides[1]+" "+sides[2]+" "+"make an isosceles triangle";
     document.getElementById("trackOutput").innerHTML=thirdOutput;
   }
-  else if(sides[0]!=sides[1] && sides[0]!=sides[2] && sides[2]!=sides[1]){
+  else if(sides[0]!=sides[1] && sides[0]!=sides[2] && sides[2]!=sides[1] && sides[0]+sides[1]>sides[2] && sides[1]+sides[2]>sides[0] && sides[2]+sides[0]>sides[1]){
     var fourthOutput=sides[0]+" "+sides[1]+" "+sides[2]+" "+"make a scalene triangle";
     document.getElementById("trackOutput").innerHTML=fourthOutput;
   }
