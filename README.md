@@ -20,27 +20,27 @@ This webapp is designed to help a user check which type of triangle it is accord
 | Behavior        |  Input     | Output                        |   
 | :-------------: | :--------: | :--------------------------:  |
 |  blank input    |  null      |  doesn't make a triangle      |
-|-----------------|------------|-------------------------------|
+|                 |            |                               |
 |One side is zero |  sideA=0   |                               |
 |                 |  sideB=3   | doesn't make a triangle       |                 
 |                 |  sideC=4   |                               |
-|-----------------|------------|-------------------------------|
+|                 |            |                               |
 | Similar inputs  |  sideA=12  |                               |
 |                 |  sideB=12  | Makes an  equilateral triangle|                 
 |                 |  sideC=12  |                               |
-|-----------------|------------|-------------------------------|
+|                 |            |                               |
 |Two sides have   |  sideA=12  |                               |
 | similar values  |  sideB=12  | Makes an  isosceles triangle  |                 
 |    value        |  sideC=7   |                               |
-|-----------------|------------|-------------------------------|
+|                 |            |                               |
 | Different       |  sideA=8   |                               |
 |   inputs        |  sideB=6   | Makes a scalene triangle      |                 
 |                 |  sideC=5   |                               |
-|-----------------|------------|-------------------------------|
+|                 |            |                               |
 |Sum of two sides |  sideA=6   |                               |
 |is greater than  |  sideB=8   | Makes a scalene triangle      |                 
 |the remainig side|  sideC=10  |                               |
-|-----------------|------------|-------------------------------|
+|                 |            |                               |
 |Sum of two sides |  sideA=5   |                               |
 |is less than     |  sideB=3   | doesn't make a triangle       |                 
 |the remainig side|  sideC=9   |                               |
