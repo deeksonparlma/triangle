@@ -18,7 +18,7 @@ This webapp is designed to help a user check which type of triangle it is accord
 ##Behavior Driven Development
 
 | Behavior        |  Input     | Output                        |   
-| :-------------: | :--------: |: ---------------------------: |
+| :-------------: | :--------: | :--------------------------:  |
 |  blank input    |  null      |  doesn't make a triangle      |
 |                 |            |                               |
 |One side is zero |  sideA=0   |                               |
