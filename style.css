@@ -23,3 +23,29 @@ input {
   height: 25px;
   border-radius: 10px;
 }
+#info {
+  display: flex;
+  align-content: center;
+}
+  @media screen and (max-width:800px){
+    .col {
+     width: 200px;
+     font-size: 17px;
+     padding-left: 40px;
+    }
+    .col>img{
+        height:50px;
+        width:90px;
+      }
+  }
+@media screen and (min-width:800px){
+    .col {
+     width: 200px;
+     font-size: 17px;
+     padding-left: 150px;
+    }
+    .col>img{
+        height:100px;
+        width:170px;
+      }
+  }
