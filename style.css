@@ -1,3 +1,9 @@
+h1 {
+  color:#080E03;
+}
+body{
+  background-image: url("https://stmed.net/sites/default/files/triangle-wallpapers-25326-7917028.jpg");
+}
 #user_data {
   background-color: #D0E9FB;
   height: 280px;
@@ -32,10 +38,17 @@ input {
      width: 200px;
      font-size: 17px;
      padding-left: 40px;
+     background-color: #FBF0F6;
+     opacity: 0.6;
+     box-shadow: 1px 1px 2px;
     }
     .col>img{
         height:50px;
         width:90px;
+      }
+      .load{
+        height: 50px;
+        border-radius: 25px;
       }
   }
 @media screen and (min-width:800px){
@@ -43,9 +56,16 @@ input {
      width: 200px;
      font-size: 17px;
      padding-left: 150px;
+     background-color: #FBF0F6;
+     opacity: 0.6;
+     box-shadow: 1px 1px 2px;
     }
     .col>img{
         height:100px;
         width:170px;
+      }
+      .load{
+        height: 70px;
+        border-radius: 35px;
       }
   }
