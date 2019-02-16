@@ -16,7 +16,7 @@ This webapp is designed to help a user check which type of triangle it is accord
 * The output displays immediately below the "check" and "reset" buttons
 * To continue trying other lengths,clear the inputs with the "reset" button
 ##Behavior Driven Development
-|-----------------|------------|-------------------------------|
+
 | Behavior        |  Input     | Output                        |   
 |-----------------|------------|-------------------------------|
 |  blank input    |  null      |  doesn't make a triangle      |
@@ -44,7 +44,7 @@ This webapp is designed to help a user check which type of triangle it is accord
 |Sum of two sides |  sideA=5   |                               |
 |is less than     |  sideB=3   | doesn't make a triangle       |                 
 |the remainig side|  sideC=9   |                               |
-|-----------------|------------|-------------------------------|
+
 ## Known Bugs
 There are no bugs at the moment but if you encounter any kindly reach me via my email :dicksonparlma@gmail.com
  To develop this program in the website i used atom as my text editor.The site is built entirely on HTML, javaScript and CSS.
