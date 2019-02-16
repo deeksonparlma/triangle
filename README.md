@@ -3,7 +3,7 @@
 #### By **Dickson Nyaigoti**
 ## Description
 github repository :https://github.com/deeksonparlma/triangle-tracker
-gh-page :https:deeksonparlma.githyb.io/triangle
+gh-page :https:deeksonparlma.github.io/triangle
 This webapp is designed to help a user check which type of triangle it is according to the dimensions he/she has input.Irrespective of how big the figures are,the program validates whether the three sides input can form any of the three types of trinagles:Equilateral,isosceles or scalene.However, when the users values don't pass any of the checks,the program will inform you the dimensions used can't form a triangle.
 ##Features
 * Fast response to your data
