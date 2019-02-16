@@ -8,7 +8,7 @@ function  tracker(){
   var sideb=parseInt(collect2);
   var sidec=parseInt(collect3);
   var sides=[sidea,sideb,sidec];
-  var type=["makes an equilateral triangle","makes an isosceles triangle","makes an scalene triangle","doesn't make a triangle"]
+  var type=["makes an equilateral triangle","makes an isosceles triangle","makes a scalene triangle","doesn't make a triangle"]
 
   /*BUSINESS LOGIC*/
 
