@@ -37,7 +37,7 @@ input {
     .col {
      width: 200px;
      font-size: 17px;
-     padding-left: 40px;
+     padding-left: 20px;
      background-color: #FBF0F6;
      opacity: 0.6;
      box-shadow: 1px 1px 2px;
@@ -55,7 +55,7 @@ input {
     .col {
      width: 200px;
      font-size: 17px;
-     padding-left: 10px;
+     padding-left: 150px;
      background-color: #FBF0F6;
      opacity: 0.6;
      box-shadow: 1px 1px 2px;
