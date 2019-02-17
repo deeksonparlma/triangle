@@ -33,6 +33,7 @@ input {
   display: flex;
   align-content: center;
 }
+/*MEDIA QUERY FOR SMALL SCREENS*/
   @media screen and (max-width:800px){
     .col {
      width: 200px;
