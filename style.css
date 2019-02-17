@@ -52,6 +52,7 @@ input {
         border-radius: 25px;
       }
   }
+  /*MEDIA QUERY FOR LARGE SCREENS*/
 @media screen and (min-width:800px){
     .col {
      width: 200px;
