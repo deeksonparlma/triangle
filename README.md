@@ -10,11 +10,10 @@ This webapp is designed to help a user check which type of triangle it is accord
 * User-friendly intaface
 * Easy to use
 ## Setup/Installation Requirements
-* Go to https:deeksonparlma.githyb.io/triangle to get to the live website with the program.
-* As a user,you are required to input three numbers of any length in the three input sections.
-* Below there's  a "check" button. Tap on it to get the results
-* The output displays immediately below the "check" and "reset" buttons
-* To continue trying other lengths,clear the inputs with the "reset" button
+* Go to my github repository :https://github.com/deeksonparlma/triangletriangle
+* From this point,fork the repository to be able to clone or download
+* Copy the link to clone/download
+* Clone/download the project using the terminal
 ##Behavior Driven Development
 
 | Behavior        |  Input     | Output                        |   
