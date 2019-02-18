@@ -14,7 +14,7 @@ This webapp is designed to help a user check which type of triangle it is accord
 * From this point,fork the repository to be able to clone or download
 * Copy the link to clone/download
 * Clone/download the project using the terminal
-##Behavior Driven Development
+## Behavior Driven Development
 
 | Behavior        |  Input     | Output                        |   
 | :-------------: | :--------: | :--------------------------:  |
